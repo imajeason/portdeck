@@ -56,50 +56,50 @@
 **整合导航**
 
 自定义应用入口，一键直达容器 Web 服务^^。
-![alt text](image.png)
+![alt text](images/image.png)
 **容器管理与交互**
 直观展示 Stack 分组与容器运行状态，集成 Shell 终端与参数重构功能^^。
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 合并stack展示
 可以对单个容器进行重启、关闭、删除操作
 可以进入容器shell
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 可以对容器进行修改后重建
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 可以查看容器inspect/logs/stats
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 镜像界面
-![alt text](image-6.png)
+![alt text](images/image-6.png)
 可以下载镜像
-![alt text](image-7.png)
-![alt text](image-8.png)
+![alt text](images/image-7.png)
+![alt text](images/image-8.png)
 
 也可以从镜像创建容器
-![alt text](image-9.png)
-![alt text](image-10.png)
+![alt text](images/image-9.png)
+![alt text](images/image-10.png)
 
 数据卷界面
-![alt text](image-11.png)
+![alt text](images/image-11.png)
 网络界面
-![alt text](image-12.png)
+![alt text](images/image-12.png)
 
 **应用市场（一键部署）**
 挑选应用即可自动生成模板配置，可视化预检与实时部署日志一目了然^^
-![alt text](image-13.png)
+![alt text](images/image-13.png)
 所有工具面向个人用户全部免费，但正常使用需注册
-![alt text](image-14.png)
-![alt text](image-15.png)
+![alt text](images/image-14.png)
+![alt text](images/image-15.png)
 点击安装可调用部署界面
-![alt text](image-16.png)
-![alt text](image-17.png)
+![alt text](images/image-16.png)
+![alt text](images/image-17.png)
 部署成功与否与能否访问docker官网高度相关，本工具还提供了镜像加速，但不免费，请谅解。
-![alt text](image-18.png)
-![alt text](image-19.png)
+![alt text](images/image-18.png)
+![alt text](images/image-19.png)
 **快速生成导航**
-在容器列表中右键选择“添加到导航页”，自动生成关联图标与访问链接^^。![alt text](image-21.png)
-![alt text](image-20.png)
+在容器列表中右键选择“添加到导航页”，自动生成关联图标与访问链接^^。![alt text](images/image-21.png)
+![alt text](images/image-20.png)
 加速源非免费，无其他收费项目，请放心使用
-![alt text](image-22.png)
+![alt text](images/image-22.png)
 
 **使用说明与计费**
 
