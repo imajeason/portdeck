@@ -6,7 +6,7 @@
 
 #### 🛠️ 原生 SSH 无痕接入
 
-* **零侵入架构** ：完全基于 SSH 协议执行 Docker 指令，无需在 NAS 安装任何第三方 Agent 服务，保障系统纯净与安全。
+* **零侵入架构** ：完全基于 SSH 协议执行 Docker 指令(需确认nas开启ssh服务，允许远程ssh访问)，无需在 NAS 安装任何第三方 Agent 服务，保障系统纯净与安全。
 * **系统支持** ：目前支持原生Linux、UNRAID、群晖、飞牛、OMV(Openmediavault)。
 * **前置条件** ：本工具不安装docker服务本身，大部分系统都自带了或者需要在插件中打开，原生linux需自行安装docker服务。
 
